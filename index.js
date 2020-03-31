@@ -26,5 +26,4 @@ const calculateArry = (arry) => {
   return verifyCaculation
 }
 
-// for loop (let i = 0; i <.length; i++)
 module.exports = calculate
